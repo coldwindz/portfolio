@@ -12,7 +12,7 @@ import git from './git.png';
 import mongodb from './mongodb.png';
 import right_arrow_white from './right-arrow-white.png';
 import logo from './logo-2.png';
-import logo_dark from './logo-dark-2.jpeg';
+import logo_dark from './logo-dark-2.png';
 import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';
 import profile_img from './profile-img2.png';
